@@ -37,7 +37,8 @@ function App() {
     >
       <h1 className="heading">Time Converter</h1>
       <p className="para">
-        Enter hours and minutes <br /> values to convert into
+        Enter hours and minutes <br />
+        to convert into
         <br /> seconds
       </p>
       <label for="hoursInput" className="hours">
